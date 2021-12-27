@@ -17,3 +17,7 @@ Untuk databasenya menggunakan MYSQL. Graphic User Interface didesain menggunakan
 
 # ER Diagram
 ![mermaid-diagram-20211227161525](https://user-images.githubusercontent.com/83277030/147459935-d6b64e87-28b6-4d7e-b374-b32c055f968d.png)
+
+# Class Diagram
+![mermaid-diagram-20211227170530](https://user-images.githubusercontent.com/83277030/147461150-8758ff6c-1826-40ee-9432-647edf36c284.png)
+
