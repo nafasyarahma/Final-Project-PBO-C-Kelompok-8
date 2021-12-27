@@ -14,3 +14,6 @@
 Sistem yang dapat digunakan untuk melakukan pendataan nasabah koperasi dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. 
 Setiap nasabah dapat memiliki 1 atau lebih rekening. Nasabah juga dapat menambah dan menarik saldo rekening. 
 Untuk databasenya menggunakan MYSQL. Graphic User Interface didesain menggunakan Scene Builder. 
+
+# ER Diagram
+![mermaid-diagram-20211227161525](https://user-images.githubusercontent.com/83277030/147459935-d6b64e87-28b6-4d7e-b374-b32c055f968d.png)
